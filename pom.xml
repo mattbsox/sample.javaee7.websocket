@@ -55,6 +55,7 @@
                     <installAppPackages>project</installAppPackages>
                     <looseApplication>true</looseApplication>
                     <stripVersion>true</stripVersion>
+                    <type>zip</type>
                     <bootstrapProperties>
                         <appLocation>${project.artifactId}.war</appLocation>
                     </bootstrapProperties>
