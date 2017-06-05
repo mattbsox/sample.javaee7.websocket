@@ -56,7 +56,7 @@ Once the application is deployed and running in bluemix, it will be available un
 
 # Notice
 
-© Copyright IBM Corporation 2015.
+© Copyright IBM Corporation 2015, 2017.
 
 # License
 
